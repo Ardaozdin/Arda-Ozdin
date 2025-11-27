@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi there, I'm Arda! 👋</h1>
-<h3>👨‍💻 Computer Engineering Student & Algo-Trading Enthusiast</h3>
+<h3>👨‍💻 Computer Engineering Student & Algo-Trading Developer</h3>
 </div>
 <br>
 <table border="0" width="100%">
