@@ -7,8 +7,8 @@
 <tr>
 <td width="50%" valign="top">
 <h2>🇬🇧 EN - About Me</h2>
-<p>I am a Computer Engineering student passionate about software development, data analysis, and financial technologies.</p>
-<p>I specialize in building <b>automated trading systems</b> and <b>data-driven backend applications</b>. My goal is to combine finance logic with solid engineering principles.</p>
+<p>I am a Computer Engineering student passionate about software development, financial technologies, and web architecture.</p>
+<p>I enjoy working on the entire spectrum of development. I specialize in building <b>automated trading systems</b> and <b>end-to-end web applications</b>, crafting both <b>engaging frontends</b> and <b>robust backends</b>.</p>
 <h3>🚀 Currently Working On</h3>
 <p><a href="https://github.com/Ardaozdin/PROJE-LINKIN"><b>🤖 Algorithmic Crypto Trading Bot</b></a></p>
 <p>A comprehensive automated trading system developed using Python. It analyzes market data and executes trades based on custom strategies.</p>
@@ -25,8 +25,8 @@
 </td>
 <td width="50%" valign="top">
 <h2>🇹🇷 TR - Hakkımda</h2>
-<p>Yazılım geliştirme, veri analizi ve finansal teknolojilere tutkulu bir Bilgisayar Mühendisliği öğrencisiyim.</p>
-<p>Özellikle <b>otomatik al-sat sistemleri</b> ve <b>veri odaklı arka uç (backend) uygulamaları</b> geliştirme konusunda uzmanlaşıyorum. Amacım finans mantığını sağlam mühendislik ile birleştirmek.</p>
+<p>Yazılım geliştirme, finansal teknolojiler ve web mimarileri üzerine tutkulu bir Bilgisayar Mühendisliği öğrencisiyim.</p>
+<p>Geliştirme sürecinin her aşamasında yer almaktan keyif alıyorum. Özellikle <b>otomatik al-sat sistemleri</b> ve <b>uçtan uca web uygulamaları</b> geliştiriyor; hem <b>etkileyici frontend arayüzleri</b> hem de <b>sağlam backend sistemleri</b> kurmayı seviyorum.</p>
 <h3>🚀 Şu An Çalıştığım Proje</h3>
 <p><a href="https://github.com/Ardaozdin/PROJE-LINKIN"><b>🤖 Algoritmik Kripto Botu</b></a></p>
 <p>Python kullanılarak geliştirilmiş kapsamlı bir otomatik ticaret sistemi. Piyasa verilerini analiz eder ve özel stratejilere göre işlem yapar.</p>
